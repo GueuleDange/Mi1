@@ -1,0 +1,29 @@
+body
+{
+    font-family: verdana, sans-serif;
+    font-size: 1em;
+}
+
+h2 
+{
+    text-align: center;
+}
+.p1
+{
+    text-align: center;
+    
+}
+
+.img1
+{
+    float: center;
+    width: 250px;
+    
+}
+
+img
+{
+    width: 250px;
+}
+
+
